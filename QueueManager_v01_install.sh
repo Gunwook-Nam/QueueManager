@@ -32,6 +32,7 @@ echo "[info] Copying the files to $destpath..."
 cp $qu $destpath
 cp $qq $destpath
 cp $qf $destpath
+cp $qqt $destpath
 mkdir -p $destpath/qu_log
 
 echo "[info] Setting up the aliases..."
