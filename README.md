@@ -4,13 +4,9 @@
 **Version:** 0.1  
 **Last Updated:** 2024-11-20  
 
----
-
 ## Overview
 Queue Manager is a collection of scripts designed to simplify job monitoring on the MICC `mu` server.
 These tools provide enhanced visualization and filtering of job information for improved usability.
-
----
 
 ## Features
 
@@ -30,11 +26,9 @@ These tools provide enhanced visualization and filtering of job information for 
 - Extends `qq01` by including elapsed time for each job.
 - Useful for estimating the termination time of others' jobs.
 
----
-
 ## Installation
-To install Queue Manager v0.1, execute the installation script:
+To install Queue Manager v0.1, execute the installation `tcsh` script:
 
 ```tcsh
 ./QueueManager_v01_install.sh
-``
+```
