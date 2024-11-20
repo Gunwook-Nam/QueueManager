@@ -4,6 +4,7 @@ set me = `whoami`
 set qu = '/mifs/gunwook2/scripts/QueueManagers/v01/qu_v01.py'
 set qq = '/mifs/gunwook2/scripts/QueueManagers/v01/qq_v01.py'
 set qf = '/mifs/gunwook2/scripts/QueueManagers/v01/qf_v01.py'
+set qqt = '/mifs/gunwook2/scripts/QueueManagers/v01/qq_time_v01.py'
 
 echo "***************************************"
 echo "*   Queue Manager v0.1 Installation   *"
