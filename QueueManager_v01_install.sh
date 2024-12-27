@@ -11,12 +11,12 @@ echo "*   Queue Manager v0.1 Installation   *"
 echo "***************************************"
 echo ""
 echo "    Enter the path to install:"
-echo "    (default: /mifs/$me/scripts/QueueManager_v01/)"
+echo "    (default: /mifs/$me/scripts/QueueManager/v01/)"
 echo -n "    > "
 echo ""
 
 if ($< == "") then
-    set destpath = "/mifs/$me/scripts/QueueManager_v01"
+    set destpath = "/mifs/$me/scripts/QueueManager/v01"
 else
     set destpath = $<
 endif
